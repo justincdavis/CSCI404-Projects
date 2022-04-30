@@ -1,0 +1,7 @@
+York Lyman
+distance: 137
+route
+York to Biddeford, 57km
+Biddeford to Portland, 23km
+Portland to Saco, 36km
+Saco to Lyman, 21km

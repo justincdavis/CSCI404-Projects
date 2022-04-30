@@ -1,0 +1,4 @@
+BarHarbor York
+distance: infinity
+route
+none

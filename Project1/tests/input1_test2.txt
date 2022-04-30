@@ -1,0 +1,7 @@
+Luebeck Frankfurt
+distance: 566
+route
+Luebeck to Hamburg, 63km
+Hamburg to Hannover, 153km
+Hannover to Kassel, 165km
+Kassel to Frankfurt, 185km

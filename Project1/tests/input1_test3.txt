@@ -1,0 +1,4 @@
+Dortmund Dortmund
+distance: 0
+route
+Dortmund to Dortmund, 0km

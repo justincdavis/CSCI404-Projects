@@ -1,0 +1,6 @@
+Munich Dresden
+distance: 553
+route
+Munich to Nuremberg, 171km
+Nuremberg to Leipzig, 263km
+Leipzig to Dresden, 119km

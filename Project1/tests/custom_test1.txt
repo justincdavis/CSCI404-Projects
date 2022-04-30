@@ -1,0 +1,8 @@
+York Limestone
+distance: 612
+route
+York to Biddeford, 57km
+Biddeford to Portland, 23km
+Portland to Bangor, 209km
+Bangor to Presque, 243km
+Presque to Limestone, 80km
