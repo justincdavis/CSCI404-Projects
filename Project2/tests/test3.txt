@@ -1,0 +1,13 @@
+python maxconnect4.py interactive testinput3.txt human-next 7
+================================================
+CURRENT GAME STATE
+0000000
+0000000
+0000000
+0000000
+0000000
+0000000
+Current player: 1
+Player 1: 0, Player 2: 0
+================================================
+Please select which column you would like to place your piece in (from 1 to 7)

@@ -1,0 +1,13 @@
+python maxconnect4.py interactive testinput1.txt human-next 7
+================================================
+CURRENT GAME STATE
+2222222
+1111111
+2222222
+1111111
+2222222
+1111111
+Current player: 1
+Player 1: 12, Player 2: 12
+================================================
+Game is over, exiting...

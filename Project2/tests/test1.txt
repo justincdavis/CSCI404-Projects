@@ -1,0 +1,13 @@
+python maxconnect4.py one-move testinput1.txt output.txt 4
+================================================
+CURRENT GAME STATE
+2222222
+1111111
+2222222
+1111111
+2222222
+1111111
+Current player: 1
+Player 1: 12, Player 2: 12
+================================================
+Game is over, exiting...
