@@ -5,6 +5,10 @@ import copy
 from typing import List
 
 
+# EXTRA CREDIT NOTE
+# this defines all moves in a defined way from left to right from a given starting position.
+# since minimax iterates over the postions of these in order, there is an inorder traversal of the game tree.
+# thus this implements successor node priorization since that specifies the traversal is in order.
 def getChildPositions(position, maxplayer=True, currentPlayer=None):
     possible_child = []
     value = 1 if maxplayer else 2
